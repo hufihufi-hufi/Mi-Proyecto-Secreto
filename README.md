@@ -1,7 +1,7 @@
-# Mi-Proyecto-Secreto
+# Iniciado Superior
 # 🌟 Mi Proyecto Secreto  
 
-**Objetivo:** [Explica tu idea en 1 línea].  
+**Objetivo:** Entrenamiento Superior en tres grandes mómulos 4-14, 15-18 y 19-30.  
 
 ### 📌 ¿Qué hay aquí?  
 - Documentos clave (ej: [Guía](enlace-a-Google-Drive)).  
