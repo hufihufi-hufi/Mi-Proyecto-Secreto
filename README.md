@@ -1,5 +1,5 @@
 # Iniciado Superior
-# 🌟 Mi Proyecto Secreto  
+# 🌟 Masonería Esotérica   
 
 **Objetivo:** Entrenamiento Superior en tres grandes mómulos 4-14, 15-18 y 19-30.  
 
