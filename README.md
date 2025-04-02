@@ -1,10 +1,10 @@
 # Iniciado Superior
 # 🌟 Masonería Esotérica   
 
-**Objetivo:** Entrenamiento Superior en tres grandes mómulos 4-14, 15-18 y 19-30.  
+**Objetivo:** Entrenamiento Superior en tres grandes Módulos 4-14, 15-18 y 19-30.  
 
 ### 📌 ¿Qué hay aquí?  
 - Documentos clave (ej: [Guía](enlace-a-Google-Drive)).  
 - Próximos pasos.  
 
-✨ *Creado con precaución y GitHub Light.* 
+✨ *Creado por Fidelaj Galiná y GitHub Light.* 
