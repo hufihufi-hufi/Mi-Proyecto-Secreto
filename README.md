@@ -7,4 +7,4 @@
 - Documentos clave (ej: [Guía](enlace-a-Google-Drive)).  
 - Próximos pasos.  
 
-✨ *Creado con amor y GitHub Light.* 
+✨ *Creado con precaución y GitHub Light.* 
