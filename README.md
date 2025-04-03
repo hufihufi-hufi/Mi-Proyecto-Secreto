@@ -17,6 +17,9 @@
 </div>
 
 ---
+<div align="center">
+  <img src="./assets/banner.png" width="100%" alt="Iniciado Superior">
+</div>
 
 ## 🌟 **¿Qué encontrarás aquí?**  
 - ✅ [Documentación clave](enlace-a-Google-Drive) (guías, plantillas).  
